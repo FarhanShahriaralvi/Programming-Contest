@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+background-color: rgb(248, 245, 245)
+}
+.logo {
+	color: #0c0c0c;
+	font-size: 30px;
+}
+
+.logo span {
+	color: #F6AE2D;
+}
+
+.login {
+height: 400px;
+width: 300px;
+position: absolute;
+background-color: lightgrey;
+border-radius: 10px;
+top: 35%;
+left: 40%;
+
+
+}
+.head {
+    
+    position: relative;
+    top: 20px;
+    left: 100px;
+    color: orange;
+    
+
+}
+
+.position {
+    position: relative;
+    left: 60px;
+}
